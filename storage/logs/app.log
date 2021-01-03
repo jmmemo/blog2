@@ -1,0 +1,2 @@
+2021/01/03 00:38:04 {"callers":["/Users/mojiajun/go-programming-tour-book/book-service/main.go:21 main.init.0"],"level":"info","message":"kiri:go-programming-tour-book/blog-service","time":1609605484288980000}
+2021/01/03 01:12:11 {"callers":["/Users/mojiajun/go-programming-tour-book/book-service/main.go:21 main.init.0"],"level":"info","message":"kiri:go-programming-tour-book/blog-service","time":1609607531383225000}
