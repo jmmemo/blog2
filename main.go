@@ -30,6 +30,10 @@ func init() {
 
 }
 
+// @title 博客系统
+// @version 1.0
+// @description Go语言编程之旅:一起用Go做项目
+// @termsOfService https://github.com/go-programming-tour-book
 func main() {
 	//r := gin.Default()
 	//
